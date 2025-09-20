@@ -34,6 +34,15 @@
         <mxCell id="GsVh8utLvLRdtp5NtBEC-8" value="j &amp;gt;= 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="GsVh8utLvLRdtp5NtBEC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GsVh8utLvLRdtp5NtBEC-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="460" />
+              <mxPoint x="720" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GsVh8utLvLRdtp5NtBEC-14" value="arr [j+1] = arr [j]&lt;br&gt;j = j - 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="440" width="100" height="40" as="geometry" />
         </mxCell>
