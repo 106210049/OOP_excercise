@@ -7,7 +7,7 @@
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-1" target="2A_SbFSFQwI9NCKNKfQg-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-1" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2A_SbFSFQwI9NCKNKfQg-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-2" target="2A_SbFSFQwI9NCKNKfQg-4" edge="1">
@@ -111,7 +111,7 @@
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-31" value="Returns the cost value&amp;nbsp;&lt;div&gt;and the result&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="930" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-37" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2A_SbFSFQwI9NCKNKfQg-37" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="345" y="1000" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3Od6S8CFi3i6scTGe9zs-10" value="True" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
