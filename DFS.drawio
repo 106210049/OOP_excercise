@@ -154,7 +154,7 @@
         <mxCell id="BuTLXM4rKSmtT2MdxAmf-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="BuTLXM4rKSmtT2MdxAmf-1" target="BuTLXM4rKSmtT2MdxAmf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BuTLXM4rKSmtT2MdxAmf-1" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="BuTLXM4rKSmtT2MdxAmf-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0rB2-SKs5Lnc0A8TI4xo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="BuTLXM4rKSmtT2MdxAmf-2" target="0rB2-SKs5Lnc0A8TI4xo-1" edge="1">
@@ -228,7 +228,7 @@
         <mxCell id="exZfm3OVi_6MwPLwBPTf-2" value="&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;return False&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="exZfm3OVi_6MwPLwBPTf-5" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="exZfm3OVi_6MwPLwBPTf-5" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="365" y="600" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="exZfm3OVi_6MwPLwBPTf-8" value="True" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
