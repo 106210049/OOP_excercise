@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-6" value="Arrange the edges of each shipper in ascending order of weight." style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="280" y="260" width="240" height="40" as="geometry" />
+          <mxGeometry x="240" y="260" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-8" target="2A_SbFSFQwI9NCKNKfQg-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
