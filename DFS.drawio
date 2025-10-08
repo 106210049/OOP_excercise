@@ -1,20 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5" pages="2">
   <diagram name="Page-1" id="xVQ26TS-9nPnl3b0Swa5">
-    <mxGraphModel dx="992" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-1" target="2A_SbFSFQwI9NCKNKfQg-2" edge="1">
+        <mxCell id="BaPUnZjPbzNxUk9tTi28-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2A_SbFSFQwI9NCKNKfQg-1" target="BaPUnZjPbzNxUk9tTi28-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="260" y="30" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-2" target="2A_SbFSFQwI9NCKNKfQg-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-2" value="Read n, m and edges from an input file" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="200" y="110" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-4" target="2A_SbFSFQwI9NCKNKfQg-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,12 +58,13 @@
         <mxCell id="3Od6S8CFi3i6scTGe9zs-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-19" target="2A_SbFSFQwI9NCKNKfQg-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3Od6S8CFi3i6scTGe9zs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-19" target="2A_SbFSFQwI9NCKNKfQg-31" edge="1">
+        <mxCell id="3Od6S8CFi3i6scTGe9zs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-19" target="BaPUnZjPbzNxUk9tTi28-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="670" />
               <mxPoint x="120" y="950" />
             </Array>
+            <mxPoint x="190" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-19" value="Finished browsing&amp;nbsp;&lt;div&gt;the list?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -115,11 +110,10 @@
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-28" value="total_cost += w&lt;div&gt;result.append((u, v, w))&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="525" y="930" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="2A_SbFSFQwI9NCKNKfQg-31" target="2A_SbFSFQwI9NCKNKfQg-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="2A_SbFSFQwI9NCKNKfQg-31" value="Returns the cost value&amp;nbsp;&lt;div&gt;and the result&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="240" y="930" width="170" height="40" as="geometry" />
+        <mxCell id="2A_SbFSFQwI9NCKNKfQg-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BaPUnZjPbzNxUk9tTi28-5" target="2A_SbFSFQwI9NCKNKfQg-37" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="970" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2A_SbFSFQwI9NCKNKfQg-37" value="End" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="265" y="1000" width="120" height="50" as="geometry" />
@@ -147,6 +141,15 @@
         </mxCell>
         <mxCell id="3Od6S8CFi3i6scTGe9zs-17" value="True" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="500" y="880" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BaPUnZjPbzNxUk9tTi28-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaPUnZjPbzNxUk9tTi28-1" target="2A_SbFSFQwI9NCKNKfQg-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BaPUnZjPbzNxUk9tTi28-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Read n, m and edges from an input file&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BaPUnZjPbzNxUk9tTi28-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Returns the cost value&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;and the result&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="920" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
