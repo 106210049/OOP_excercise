@@ -188,6 +188,9 @@
         <mxCell id="rmw4vqOsCla1vh0ZSKfe-5" value="Hough translation extraction lane line" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="rmw4vqOsCla1vh0ZSKfe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rmw4vqOsCla1vh0ZSKfe-8" target="rmw4vqOsCla1vh0ZSKfe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rmw4vqOsCla1vh0ZSKfe-8" value="Construction of ROI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
