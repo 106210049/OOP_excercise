@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.2" pages="3">
   <diagram name="Page-1" id="04vF4BHMbiJNl363inTT">
     <mxGraphModel dx="1188" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -162,6 +162,47 @@
         </mxCell>
         <mxCell id="1yjDgrDyxTdUHYxEoRi9-12" value="Output Visualization&lt;br&gt;(lane+vehicle+warning)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7AgG79YNPNGey7YT4KMr" name="Page-3">
+    <mxGraphModel dx="788" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liFqx4t-wf6WkhFw6Aer-1" target="liFqx4t-wf6WkhFw6Aer-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-1" value="Đọc frame &lt;br&gt;ảnh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liFqx4t-wf6WkhFw6Aer-2" target="liFqx4t-wf6WkhFw6Aer-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-2" value="Tiền xử &lt;br&gt;lý ảnh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liFqx4t-wf6WkhFw6Aer-3" target="liFqx4t-wf6WkhFw6Aer-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-3" value="Trích xuất &lt;br&gt;biên Canny" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liFqx4t-wf6WkhFw6Aer-6" target="liFqx4t-wf6WkhFw6Aer-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-6" value="Xây dựng vùng quan tâm ROI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="liFqx4t-wf6WkhFw6Aer-8" target="liFqx4t-wf6WkhFw6Aer-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-8" value="Phát hiện làn đường bằng Hough Transform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="liFqx4t-wf6WkhFw6Aer-10" value="Xuất đầu ra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
